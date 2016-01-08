@@ -1,7 +1,7 @@
 # Site settings
 title: Janus Tech
 email: info@janustech.com.au
-url: https://www.janustech.com.au
+url: http://io.janustech.com.au
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 skills: "Software Development - Web Design - Educatoin Consulting"
 meta_author: Xin Zhao
